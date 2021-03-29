@@ -1,4 +1,4 @@
-<img src="crown.png" align="center" width="200px">
+<img src="crown.png" align="center" width="50px">
 
 
 *Knowledge is power. Knowledge shared is power multiplied.*
